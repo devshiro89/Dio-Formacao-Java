@@ -1,4 +1,4 @@
-package main.java.edu.dioformacaojava.modulo1;
+package main.java.edu.dioformacaojava.modulo1.rawstudies;
 /*
     A classe é a estrutura básica de um programa Java. Ela é usada para definir 
     objetos e suas propriedades e comportamentos. A classe é composta por atributos (variáveis)

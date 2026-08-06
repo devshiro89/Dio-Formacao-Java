@@ -1,4 +1,4 @@
-package main.java.edu.dioformacaojava.modulo1;
+package main.java.edu.dioformacaojava.modulo1.rawstudies;
 
 public class PackageExplain {
     /*
