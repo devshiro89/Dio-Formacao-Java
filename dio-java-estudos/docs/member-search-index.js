@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"main.java.edu.dioformacaojava.modulo1.rawstudies","c":"JavaDoc","l":"JavaDoc()","u":"%3Cinit%3E()","k":"3"},{"p":"main.java.edu.dioformacaojava.modulo1.rawstudies","c":"JavaDoc","l":"transformHDD()"},{"p":"main.java.edu.dioformacaojava.modulo1.rawstudies","c":"JavaDoc","l":"transformTrueForm","k":"2"}];updateSearchResults();
