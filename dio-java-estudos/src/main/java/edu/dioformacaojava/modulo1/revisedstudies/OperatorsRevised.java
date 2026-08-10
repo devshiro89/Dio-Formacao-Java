@@ -1,4 +1,4 @@
-package main.java.edu.dioformacaojava.modulo1;
+package edu.dioformacaojava.modulo1.revisedstudies;
 
 /**
      Guia didático sobre Operadores em Java, usando como tema a criação

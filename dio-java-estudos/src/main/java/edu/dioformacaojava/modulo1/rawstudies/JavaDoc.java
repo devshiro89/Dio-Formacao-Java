@@ -1,4 +1,4 @@
-package main.java.edu.dioformacaojava.modulo1.rawstudies;
+package edu.dioformacaojava.modulo1.rawstudies;
 
     /**
         <h2> JavaDoc </h2>

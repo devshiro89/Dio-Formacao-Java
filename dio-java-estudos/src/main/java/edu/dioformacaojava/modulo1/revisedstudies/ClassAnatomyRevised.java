@@ -1,4 +1,4 @@
-package main.java.edu.dioformacaojava.modulo1;
+package edu.dioformacaojava.modulo1.revisedstudies;
 
 /**
  * Guia didático sobre a Anatomia de uma Classe em Java, usando como
